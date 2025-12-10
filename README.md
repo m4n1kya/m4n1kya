@@ -8,13 +8,13 @@ I strive to turn complex, arcane ideas into real-world solutions and constantly 
 
 ⚔️ Skills-
 
-Languages: Java, Python, C, C++, Assembly (8086/8051) 🪓
-Domains: AI/ML, Blockchain, Embedded Systems, AR/VR 🕸️
-Tools & Platforms: Git, VS Code, Ubuntu ⚱️
+-Languages: Java, Python, C, C++, Assembly (8086/8051) 🪓
+-Domains: AI/ML, Blockchain, Embedded Systems, AR/VR 🕸️
+-Tools & Platforms: Git, VS Code, Ubuntu ⚱️
 
 🕷️ Current Focus-
 
-Building intelligent systems through AI/ML 🦇
-Exploring Blockchain & Web 3.0 ⚔️
-Developing AR/VR immersive experiences 🕯️
-Strengthening Data Structures & Algorithms 🗡️
+-Building intelligent systems through AI/ML 🦇
+-Exploring Blockchain & Web 3.0 ⚔️
+-Developing AR/VR immersive experiences 🕯️
+-Strengthening Data Structures & Algorithms 🗡️
