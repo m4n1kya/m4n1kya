@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Manikya
+CSE Engineer in Training | AI, Blockchain & Emerging Tech Enthusiast
 
-<!--
-**m4n1kya/m4n1kya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 About Me
+I’m a Computer Science Engineering student passionate about AI/ML, Blockchain, Web 3.0, and AR/VR.
+I enjoy building practical, intelligent systems and continuously improving through hands-on projects and deep learning.
+I focus on writing clean code, understanding core concepts, and exploring future-driven technologies.
 
-Here are some ideas to get you started:
+🛠️ Skills
+Languages: Java, Python, C, C++, Assembly (8086/8051)
+Domains: AI/ML, Blockchain, Embedded Systems, AR/VR
+Tools: Git, VS Code, Ubuntu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Focus
+Machine Learning & Model Building
+Smart Contracts & Web 3.0
+AR/VR Experiments
+Strengthening DSA & System Fundamentals
