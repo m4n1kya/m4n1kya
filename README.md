@@ -10,7 +10,7 @@ I strive to turn complex, arcane ideas into real-world solutions and constantly 
 ---
 
 ## ⚔️ Skills
-- **Languages:** Java, Python, C, C++, Assembly (8086/8051) 🪓  
+- **Languages:** Java, Python, C, C++ 🪓  
 - **Domains:** AI/ML, Blockchain, Embedded Systems, AR/VR 🕸️  
 - **Tools & Platforms:** Git, VS Code, Ubuntu ⚱️  
 
