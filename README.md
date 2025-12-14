@@ -1,5 +1,5 @@
 # 🦇 Hello, I'm **Manikya**
-### ◾ CSE Engineer in Training | Explorer of AI, Blockchain & Dark Tech
+### ◾ CSE Engineer in Training | Enthusiast in AI, Blockchain, Web 3.0, and AR/VR | Committed to Learning & Innovation in Advanced Technologies
 
 ---
 
