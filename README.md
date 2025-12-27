@@ -5,7 +5,7 @@
 
 ## 🕯️ About Me
 I am a Computer Science Engineering student fascinated by **AI/ML, Blockchain, Web 3.0, and AR/VR**.  
-I strive to turn complex, arcane ideas into real-world solutions and constantly sharpen my skills in the shadows of technology. 🦉
+I strive to turn complex, arcane ideas into real-world solutions and constantly sharpen my skills in the shadows of  technology. 🦉
 
 ---
 
