@@ -10,8 +10,8 @@ I strive to turn complex, arcane ideas into real-world solutions and constantly 
 ---
 
 ## ⚔️ Skills
-- **Languages:** Java, Python, C, C++ 🪓  
-- **Domains:** AI/ML, Blockchain, Embedded Systems, AR/VR 🕸️  
+- **Languages:** Java, Python 🪓  
+- **Domains:** AI/ML, Blockchain, System design, AR/VR 🕸️  
 - **Tools & Platforms:** Git, VS Code, Ubuntu ⚱️  
 
 ---
