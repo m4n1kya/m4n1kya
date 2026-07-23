@@ -1,6 +1,6 @@
 
 # 🦇 Hello, I'm **Manikya**
-### ◾ CSE Engineer in Training | Enthusiast in AI, Blockchain, Web 3.0, and AR/VR | Committed to Learning & Innovation in Advanced Technologies
+### ◾ CSE Engineer in Training | Enthusiast in AI, Blockchain, Web 3.0, and AR/VR | Committed to Learning & Innovation in Advanced Technologies.
 
 ---
 
