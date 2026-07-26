@@ -50,32 +50,20 @@ Passionate about crafting high-performance full-stack applications and designing
 
 ---
 
+
 ## What I Build
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>⚡ Full-Stack Applications</h3>
-        <p>End-to-end solutions with MERN, Spring Boot, and microservices architecture. Focus on clean code and maintainable systems.</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>☁️ Scalable Cloud Systems</h3>
-        <p>Cloud-native applications deployed on AWS with Docker, CI/CD pipelines, and auto-scaling for optimal performance.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🚀 High-Performance Backends</h3>
-        <p>Low-latency, high-concurrency systems with efficient database queries, caching, and load balancing strategies.</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>🛡️ Secure & Robust APIs</h3>
-        <p>RESTful APIs with JWT authentication, role-based access control, rate limiting, and comprehensive error handling.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+### Full-Stack Applications
+Production-grade applications with clean architecture, modular design, and seamless frontend-backend integration using the MERN stack and Spring Boot.
+
+### Scalable Systems
+Cloud-native, high-availability systems on AWS with containerization, CI/CD pipelines, and microservices designed for horizontal scaling.
+
+### Performance Engineering
+Low-latency backends and optimized frontends focused on high concurrency, efficient data flow, and measurable performance improvements.
+
+### Secure & Reliable APIs
+Well-structured RESTful APIs with authentication, authorization, input validation, and observability — built for real-world reliability.
 
 
 ---
