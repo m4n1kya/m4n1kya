@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C2BD9&center=true&vCenter=true&width=600&lines=Manikya+N+%E2%80%A2+Full-Stack+Developer;System+Design+Enthusiast;Building+Scalable+Solutions;MERN+%2B+Java+%2B+Spring+Boot" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B30FF&center=true&vCenter=true&width=600&lines=Manikya+N+%E2%80%A2+Full-Stack+Developer;System+Design+Enthusiast;Building+Scalable+Solutions;MERN+%2B+Java+%2B+Spring+Boot" alt="Typing Animation" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:2d1b69&height=150&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:2d0066&height=150&section=header" width="100%" />
 </div>
 
 ---
@@ -68,45 +68,45 @@ RESTful APIs with JWT authentication and role-based access control.
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m4n1kya&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=6C2BD9&icon_color=6C2BD9" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1kya&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=6C2BD9" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m4n1kya&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=9B30FF&icon_color=9B30FF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1kya&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=9B30FF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=midnight-purple&hide_border=true&background=0a0a0a&stroke=6C2BD9&ring=6C2BD9&fire=6C2BD9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=midnight-purple&hide_border=true&background=0a0a0a&stroke=9B30FF&ring=9B30FF&fire=9B30FF" />
 </div>
 
 ---
 
 ## Connect
 
-<div align="left">
+<p align="center">
   <a href="mailto:m4n1kya2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-9B30FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
   </a>
   <a href="https://www.linkedin.com/in/m4n1kya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-9B30FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
   </a>
   <a href="https://x.com/AshenRitual">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-9B30FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0a" />
   </a>
   <a href="https://www.instagram.com/m4n1kya">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-9B30FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" />
   </a>
   <a href="https://github.com/m4n1kya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-9B30FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
   </a>
-</div>
+</p>
 
 ---
 
-<!-- Dark Purple Wave Animation -->
+<!-- Dark Neon Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:2d1b69&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:2d0066&height=100&section=footer" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m4n1kya&color=6C2BD9&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=m4n1kya&color=9B30FF&style=flat-square" />
 </p>
 
 <p align="center">
