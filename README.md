@@ -68,11 +68,6 @@ RESTful APIs with JWT authentication and role-based access control.
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m4n1kya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=4A4A4A&icon_color=4A4A4A" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1kya&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=4A4A4A" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=github_dark&hide_border=true&background=0a0a0a&stroke=4A4A4A&ring=4A4A4A&fire=4A4A4A" />
 </div>
 
