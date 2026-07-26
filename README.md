@@ -95,5 +95,5 @@ Passionate full-stack developer specializing in building high-performance applic
 </p>
 
 <p align="center">
-  <i>Swervin • Code with purpose. Build with passion.</i>
+  <i>Swervin</i>
 </p>
