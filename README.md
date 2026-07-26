@@ -8,6 +8,8 @@
 
 ---
 
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="110" style="opacity: 0.18; margin-top: 12px;" />
+
 ## Manikya N
 
 Passionate about crafting high-performance full-stack applications and designing scalable system architectures. I bridge the gap between frontend aesthetics and backend robustness, delivering solutions that are both user-centric and technically sound.
@@ -17,9 +19,7 @@ Passionate about crafting high-performance full-stack applications and designing
 - **Backend Development** – Node.js, Express, Spring Boot, Microservices
 - **System Design** – Scalable APIs, Distributed Systems, Cloud Architecture
 
-<p align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="110" style="opacity: 0.18;" />
-</p>
+<br clear="right" />
 
 ---
 
