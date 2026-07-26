@@ -73,32 +73,8 @@ RESTful APIs with JWT authentication and role-based access control.
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m4n1kya&show_icons=true&theme=aura&hide_border=true&bg_color=0a0a0a&title_color=6C63FF&icon_color=6C63FF" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1kya&layout=compact&theme=aura&hide_border=true&bg_color=0a0a0a&title_color=6C63FF" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=aura&hide_border=true&background=0a0a0a&stroke=6C63FF&ring=6C63FF&fire=6C63FF" />
 </div>
-
----
-
-## Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=6C63FF&border_radius=8" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=6C63FF&border_radius=8" />
-  </a>
-  <a href="mailto:your-email@email.com">
-    <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=6C63FF&border_radius=8" />
-  </a>
-  <a href="https://github.com/m4n1kya">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=6C63FF&border_radius=8" />
-  </a>
-</p>
 
 ---
 
@@ -112,4 +88,4 @@ RESTful APIs with JWT authentication and role-based access control.
 
 <p align="center">
   <i>Building the future, one commit at a time.</i>
-</p>......THIS IS MY GITHUB README INTRO FILE...CAN YOU MAKE IT BETTER 
+</p>
