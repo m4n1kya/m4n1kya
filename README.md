@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Design+Enthusiast;Building+Scalable+Solutions;MERN+%2B+Java+%2B+Spring+Boot" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Web3+Developer;AI+%2B+Deep+Learning+Enthusiast;Building+Scalable+Decentralized+Apps;Java+%2B+MERN+%2B+Solidity" alt="Typing Animation" />
 </div>
 
 <br />
@@ -10,71 +10,95 @@
 
 ---
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="150" style="opacity: 0.3;" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="150" style="opacity: 0.25;" />
 
-## Developer & System Architect
+## About Me
 
-Passionate about crafting high-performance full-stack applications and designing scalable system architectures. I bridge the gap between frontend aesthetics and backend robustness, delivering solutions that are both user-centric and technically sound.
+Computer Science & Engineering student specializing in **Artificial Intelligence**, **Blockchain**, and **Full-Stack Web Development**. I build accessible, high-performance decentralized applications, smart contract infrastructure, and scalable full-stack web platforms.
 
 **Core Focus Areas:**
-- **Frontend Engineering** – React, Next.js, TypeScript, Tailwind CSS
-- **Backend Development** – Node.js, Express, Spring Boot, Microservices
-- **System Design** – Scalable APIs, Distributed Systems, Cloud Architecture
+- **Full-Stack Web Development** – MERN Stack, Java, Spring Boot, Microservices
+- **Web3 & Decentralized Systems** – Solidity, Ethereum Smart Contracts, DApp Architecture
+- **AI & Predictive Analytics** – Machine Learning, Deep Learning Models, Python
 
 <br clear="right" />
 
 ---
 
-## Technical Expertise
+## Technical Skills
 
-### Frontend Development
+### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,solidity,cpp,html,css" />
 </p>
 
-### Backend Development
+### Frontend & Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,bootstrap" />
 </p>
 
-### System & Cloud
+### Databases & Developer Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
-</p>
-
-### Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,vscode,github,py,cpp" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode,postman" />
 </p>
 
 ---
 
-## What I Build
+## Key Projects
 
-### Full-Stack Applications
-End-to-end solutions using the MERN stack, Spring Boot, and microservices architecture.
-
-### Scalable Systems
-Cloud-native applications deployed on AWS with CI/CD pipelines and containerization.
-
-### Performance Optimization
-High-concurrency backend systems and responsive, SEO-friendly frontends.
-
-### Secure APIs
-RESTful APIs with JWT authentication and role-based access control.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>UNI-EASE</h3>
+      <p>An AI-driven platform built to centralize academic resources, administrative tasks, and campus logistics into a unified ecosystem for students and faculty.</p>
+      <p><b>Tech Stack:</b> React, Node.js, Express, MongoDB, AI Services</p>
+      <p><a href="#"><b>View Repository »</b></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Gamified E-Learning</h3>
+      <p>A reward-driven web platform designed to incentivize educational progress for students in rural areas using gamified milestones.</p>
+      <p><b>Tech Stack:</b> MERN Stack, Gamification Logic, Web APIs</p>
+      <p><a href="#"><b>View Repository »</b></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Breast Cancer Detection</h3>
+      <p>Predictive machine learning models and deep learning architecture built for early detection and medical diagnostics.</p>
+      <p><b>Tech Stack:</b> Python, Scikit-Learn, Deep Learning Frameworks</p>
+      <p><a href="#"><b>View Repository »</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=m4n1kya&show_icons=true&theme=aura&hide_border=true&bg_color=0a0a0a&title_color=6C63FF&icon_color=6C63FF&text_color=e0e0e0" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1kya&layout=compact&theme=aura&hide_border=true&bg_color=0a0a0a&title_color=6C63FF&text_color=e0e0e0" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=aura&hide_border=true&background=0a0a0a&stroke=6C63FF&ring=6C63FF&fire=6C63FF" />
 </div>
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=6C63FF" />
+  </a>
+  <a href="mailto:your-email@email.com">
+    <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=6C63FF" />
+  </a>
+  <a href="https://github.com/m4n1kya">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=6C63FF" />
+  </a>
+</p>
 
 ---
 
@@ -87,5 +111,5 @@ RESTful APIs with JWT authentication and role-based access control.
 </p>
 
 <p align="center">
-  <i>Building the future, one commit at a time.</i>
+  <i>Building decentralized futures and intelligent systems, one commit at a time.</i>
 </p>
