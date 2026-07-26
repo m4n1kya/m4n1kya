@@ -1,50 +1,115 @@
 <div align="center">
-  <img src="LogoA.png" width="120" alt="Logo" />
-  <h1>Swervin</h1>
-  <h3>Full-Stack Developer & System Architect</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Design+Enthusiast;Building+Scalable+Solutions;MERN+%2B+Java+%2B+Spring+Boot" alt="Typing Animation" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=150&section=header" width="100%" />
 </div>
 
 ---
 
-### About Me
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="150" style="opacity: 0.3;" />
 
-Full-stack developer focused on building scalable applications and clean system architectures. I work across the entire stack—from designing responsive frontends with React and Next.js to developing robust backends with Node.js and Java.
+## Developer & System Architect
 
-Currently exploring cloud-native development, microservices, and performance optimization.
+Passionate about crafting high-performance full-stack applications and designing scalable system architectures. I bridge the gap between frontend aesthetics and backend robustness, delivering solutions that are both user-centric and technically sound.
 
----
+**Core Focus Areas:**
+- **Frontend Engineering** – React, Next.js, TypeScript, Tailwind CSS
+- **Backend Development** – Node.js, Express, Spring Boot, Microservices
+- **System Design** – Scalable APIs, Distributed Systems, Cloud Architecture
 
-### Tech Stack
-
-| Category | Technologies |
-|:---------|:-------------|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Redux |
-| **Backend** | Node.js, Express, Java, Spring Boot, Python |
-| **Cloud** | AWS, Docker, Linux, CI/CD |
-| **Databases** | MongoDB, PostgreSQL, MySQL, Redis |
-| **Tools** | Git, GitHub, Postman, VS Code |
+<br clear="right" />
 
 ---
 
-### GitHub Stats
+## Technical Expertise
+
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" />
+</p>
+
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
+</p>
+
+### System & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
+</p>
+
+### Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,vscode,github,py,cpp" />
+</p>
+
+---
+
+## What I Build
+
+### Full-Stack Applications
+End-to-end solutions using the MERN stack, Spring Boot, and microservices architecture.
+
+### Scalable Systems
+Cloud-native applications deployed on AWS with CI/CD pipelines and containerization.
+
+### Performance Optimization
+High-concurrency backend systems and responsive, SEO-friendly frontends.
+
+### Secure APIs
+RESTful APIs with JWT authentication and role-based access control.
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=m4n1kya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1kya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m4n1kya&show_icons=true&theme=aura&hide_border=true&bg_color=0a0a0a&title_color=6C63FF&icon_color=6C63FF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1kya&layout=compact&theme=aura&hide_border=true&bg_color=0a0a0a&title_color=6C63FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=aura&hide_border=true&background=0a0a0a&stroke=6C63FF&ring=6C63FF&fire=6C63FF" />
 </div>
 
 ---
 
+## Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=6C63FF&border_radius=8" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=6C63FF&border_radius=8" />
+  </a>
+  <a href="mailto:your-email@email.com">
+    <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=6C63FF&border_radius=8" />
+  </a>
+  <a href="https://github.com/m4n1kya">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=6C63FF&border_radius=8" />
+  </a>
+</p>
+
+---
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=100&section=footer" width="100%" />
+</div>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=m4n1kya&color=6C63FF&style=flat-square" />
-  <br />
-  <i>Swervin</i>
-</div>
+</p>
+
+<p align="center">
+  <i>Building the future, one commit at a time.</i>
+</p>......THIS IS MY GITHUB README INTRO FILE...CAN YOU MAKE IT BETTER 
