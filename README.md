@@ -52,17 +52,31 @@ Passionate about crafting high-performance full-stack applications and designing
 
 ## What I Build
 
-### Full-Stack Applications
-End-to-end solutions using the MERN stack, Spring Boot, and microservices architecture.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>⚡ Full-Stack Applications</h3>
+        <p>End-to-end solutions with MERN, Spring Boot, and microservices architecture. Focus on clean code and maintainable systems.</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>☁️ Scalable Cloud Systems</h3>
+        <p>Cloud-native applications deployed on AWS with Docker, CI/CD pipelines, and auto-scaling for optimal performance.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🚀 High-Performance Backends</h3>
+        <p>Low-latency, high-concurrency systems with efficient database queries, caching, and load balancing strategies.</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🛡️ Secure & Robust APIs</h3>
+        <p>RESTful APIs with JWT authentication, role-based access control, rate limiting, and comprehensive error handling.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Scalable Systems
-Cloud-native applications deployed on AWS with CI/CD pipelines and containerization.
-
-### Performance Optimization
-High-concurrency backend systems and responsive, SEO-friendly frontends.
-
-### Secure APIs
-RESTful APIs with JWT authentication and role-based access control.
 
 ---
 
