@@ -100,10 +100,6 @@ RESTful APIs with JWT authentication and role-based access control.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f1f1f&height=100&section=footer" width="100%" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m4n1kya&color=9CA3AF&style=flat-square" />
 </p>
