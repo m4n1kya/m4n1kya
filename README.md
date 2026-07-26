@@ -8,9 +8,9 @@
 
 ---
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="110" style="opacity: 0.18; margin-top: 12px;" />
-
 ## Manikya N
+
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="115" style="opacity: 0.18;" />
 
 Passionate about crafting high-performance full-stack applications and designing scalable system architectures. I bridge the gap between frontend aesthetics and backend robustness, delivering solutions that are both user-centric and technically sound.
 
