@@ -58,63 +58,16 @@ Passionate software engineer specializing in full-stack development and scalable
 
 ---
 
-## Experience
+## GitHub Stats
 
-**Lead Full Stack Developer** | UNI-EASE
-*Mar 2025 – Present | Bhopal, India*
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m4n1kya&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9CA3AF&icon_color=9CA3AF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1kya&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9CA3AF" />
+</div>
 
-- Led microservices architecture development, decoupling system modules for improved maintainability
-- Engineered MongoDB aggregation scripts for real-time campus analytics
-- Mentored developers on code quality standards and structured PR workflows
-
-**MERN Stack Intern** | Ethnus
-*Sep 2024 – Nov 2024 | Remote*
-
-- Built responsive web interfaces with React.js and Tailwind CSS
-- Developed RESTful APIs with Node.js and Express.js
-- Managed application state using Redux
-- Participated in Agile sprint cycles with Git and GitHub
-
----
-
-## Projects
-
-**AshenRitual** | AI Virtual Try-On
-*Next.js, React, TypeScript, Tailwind CSS, Node.js*
-
-- Engineered AI-driven pose estimation for real-time garment overlay
-- Built modular Next.js architecture with server-side rendering
-- Optimized backend image processing pipelines for high concurrency
-
-**UNI-EASE** | Campus Ecosystem
-*MERN Stack, JWT Auth, AWS*
-
-- Developed scalable academic resource portal for students
-- Implemented secure JWT authentication and protected routes
-- Integrated AI chatbot reducing support requests by 30%
-- Deployed on AWS with CI/CD pipelines
-
-**Reward-Driven Learning Platform**
-*Software Engineering Intern | Jan 2025 – Oct 2025*
-
-- Engineered low-latency gamified portal for 2G/3G networks
-- Integrated stateless JWT with PostgreSQL
-- Executed comprehensive API testing with Postman
-
----
-
-## Certifications
-
-- Blockchain Specialization – University at Buffalo *(Oct 2025)*
-- MERN Stack Internship – Ethnus *(Sep 2024)*
-
----
-
-## Education
-
-**VIT Bhopal University** | Aug 2023 – May 2027
-Bachelor of Technology in Computer Science and Engineering
-CGPA: 9.20 / 10.00
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9CA3AF&ring=9CA3AF&fire=9CA3AF" />
+</div>
 
 ---
 
