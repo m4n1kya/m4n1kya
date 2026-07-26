@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Design+Enthusiast;Building+Scalable+Solutions;Backend+%2B+Frontend+Architect" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Swervin+%E2%80%A2+Full-Stack+Developer;System+Design+Enthusiast;Building+Scalable+Solutions;Backend+%2B+Frontend+Architect" alt="Typing Animation" />
 </div>
 
 <br />
@@ -10,7 +10,12 @@
 
 <br />
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
+<!-- Logo Section -->
+<div align="center">
+  <img src="LogoA.png" width="180" alt="Logo" />
+</div>
+
+<br />
 
 ## About Me
 
@@ -20,8 +25,6 @@ Passionate full-stack developer specializing in building high-performance applic
 - 🎨 **Frontend Engineering** – React, Next.js, TypeScript, Tailwind CSS
 - ⚙️ **Backend Development** – Node.js, Express, Microservices
 - 🏗️ **System Design** – Scalable APIs, Distributed Systems, Cloud Architecture
-
-<br clear="right" />
 
 ---
 
@@ -76,16 +79,9 @@ Passionate full-stack developer specializing in building high-performance applic
 
 ---
 
-<!-- Animated Divider -->
+<!-- Professional Divider -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
-</div>
-
-<br />
-
-<!-- Subtle Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=✦+Continuous+learning+✦;✦+Building+the+future+✦;✦+Code+with+purpose+✦" alt="Subtle Animation" />
 </div>
 
 <br />
@@ -99,5 +95,5 @@ Passionate full-stack developer specializing in building high-performance applic
 </p>
 
 <p align="center">
-  <i>Code with purpose. Build with passion.</i>
+  <i>Swervin • Code with purpose. Build with passion.</i>
 </p>
