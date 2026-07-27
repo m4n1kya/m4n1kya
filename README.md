@@ -6,8 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f1f1f&height=150&section=header" width="100%" />
 </div>
 
----
-
 ## Manikya N.
 
 
