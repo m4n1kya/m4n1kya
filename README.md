@@ -109,11 +109,4 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
   </h3>
 </div>
 
-<!-- Bottom Wave Animation -->
-<div align="center">
-  <h3 style="color: #9CA3AF; text-shadow: 0 0 10px #9CA3AF, 0 0 20px #9CA3AF;">
-    ✦ Swervin ✦
-  </h3>
-</div>
-
 
