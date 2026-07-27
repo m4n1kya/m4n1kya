@@ -49,7 +49,6 @@ Passionate about crafting high-performance full-stack applications and designing
 
 ---
 
-
 ## What I Build
 
 ### Full-Stack Applications
