@@ -102,5 +102,5 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 </p>
 
 <p align="center">
-  <i>Manikya N • Building the future, one commit at a time.</i>
+  <i>Swervin</i>
 </p>
