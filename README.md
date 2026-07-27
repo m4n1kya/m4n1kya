@@ -111,7 +111,7 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 <!-- Bottom Wave Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=200&color=9CA3AF&center=true&vCenter=true&width=400&lines=Swervin;Building+the+future;One+commit+at+a+time" alt="Matrix Animation" />
 </div>
 
 
