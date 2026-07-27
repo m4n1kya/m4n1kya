@@ -102,6 +102,16 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
+<!-- Bottom Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=9CA3AF&center=true&vCenter=true&width=500&lines=✦+Swervin+✦;✦+Full-Stack+Developer+✦;✦+System+Architect+✦;✦+Building+the+future+✦" alt="Bottom Animation" />
+</div>
+
+<!-- Bottom Wave Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f1f1f&height=80&section=footer" width="100%" />
+</div>
+
 <p align="center">
   <i>Swervin</i>
 </p>
