@@ -111,7 +111,9 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 <!-- Bottom Wave Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=200&color=9CA3AF&center=true&vCenter=true&width=400&lines=Swervin;Building+the+future;One+commit+at+a+time" alt="Matrix Animation" />
+  <h3 style="color: #9CA3AF; text-shadow: 0 0 10px #9CA3AF, 0 0 20px #9CA3AF;">
+    ✦ Swervin ✦
+  </h3>
 </div>
 
 
