@@ -14,7 +14,7 @@ Passionate about crafting high-performance full-stack applications and designing
 
 <br>
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="130" style="opacity: 0.15; filter: grayscale(100%) brightness(1.2);" />
+<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="130" style="opacity: 0.15; filter: grayscale(100%) invert(100%) brightness(2);" />
 
 **Core Focus Areas:**
 - **Frontend Engineering** – React, Next.js, TypeScript, Tailwind CSS
