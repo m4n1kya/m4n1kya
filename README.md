@@ -114,6 +114,4 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f1f1f&height=80&section=footer" width="100%" />
 </div>
 
-<p align="center">
-  <i>Swervin</i>
-</p>
+
