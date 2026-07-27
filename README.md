@@ -100,6 +100,7 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
   <img src="https://komarev.com/ghpvc/?username=m4n1kya&color=9CA3AF&style=flat-square" />
 </p>
 
+---
 
 <!-- Bottom Typing Animation -->
 <div align="center">
