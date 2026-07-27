@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f1f1f&height=150&section=header" width="100%" />
 </div>
+
 ## Manikya N.
 
 Passionate about crafting high-performance full-stack applications and designing scalable system architectures. I bridge the gap between frontend aesthetics and backend robustness, delivering solutions that are both user-centric and technically sound.
