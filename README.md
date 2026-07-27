@@ -14,7 +14,8 @@ Passionate about crafting high-performance full-stack applications and designing
 
 <br>
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="130" style="opacity: 0.15;" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="130" style="opacity: 0.15;" />
+
 **Core Focus Areas:**
 - **Frontend Engineering** – React, Next.js, TypeScript, Tailwind CSS
 - **Backend Development** – Node.js, Express, Spring Boot, Microservices
