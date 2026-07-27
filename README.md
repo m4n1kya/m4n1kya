@@ -111,7 +111,7 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 <!-- Bottom Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f1f1f&height=80&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
 </div>
 
 
