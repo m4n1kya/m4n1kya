@@ -14,7 +14,7 @@ Passionate about crafting high-performance full-stack applications and designing
 
 <br>
 
-<img align="right" src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=java&logoColor=9CA3AF" width="130" style="opacity: 0.15;" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="130" style="opacity: 0.15;" />
 
 **Core Focus Areas:**
 - **Frontend Engineering** – React, Next.js, TypeScript, Tailwind CSS
