@@ -100,16 +100,16 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
   <img src="https://komarev.com/ghpvc/?username=m4n1kya&color=9CA3AF&style=flat-square" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f1f1f&height=80&section=footer" width="100%" />
-</div>
----
 
 <!-- Bottom Typing Animation -->
 <div align="center">
   <h3 style="color: #9CA3AF; text-shadow: 0 0 10px #9CA3AF, 0 0 20px #9CA3AF;">
     ✦ Swervin ✦
   </h3>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f1f1f&height=80&section=footer" width="100%" />
 </div>
 
 
