@@ -68,7 +68,7 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0a0a0a&stroke=9CA3AF&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=dark&hide_border=true&background=0a0a0a&stroke=9CA3AF&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -102,7 +102,7 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=9CA3AF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=m4n1kya&color=9CA3AF&style=flat-square" />
 </p>
 
 ---
