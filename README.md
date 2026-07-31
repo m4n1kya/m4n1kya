@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Design+Enthusiast;Building+Scalable+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer;Full-Stack+Developer;System+Design+Enthusiast;Building+Scalable+Solutions" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## Manikya N.
 
-Passionate about crafting high-performance full-stack applications and designing scalable system architectures. I bridge the gap between frontend aesthetics and backend robustness, delivering solutions that are both user-centric and technically sound.
+Passionate software engineer specializing in full-stack development with expertise in modern frontend technologies and scalable backend systems. Experienced in building MERN-based applications, AI-powered solutions, secure REST APIs, and responsive user interfaces. Passionate about delivering performant, scalable, and user-centric software.
 
 <br>
 
@@ -63,7 +63,6 @@ Low-latency backends and optimized frontends focused on high concurrency, effici
 ### Secure & Reliable APIs
 Well-structured RESTful APIs with authentication, authorization, input validation, and observability — built for real-world reliability.
 
-
 ---
 
 ## GitHub Analytics
@@ -101,15 +100,11 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
-<!-- Bottom Typing Animation -->
+<!-- Bottom Animation with "Swervin" -->
 <div align="center">
-  <h3 style="color: #9CA3AF; text-shadow: 0 0 10px #9CA3AF, 0 0 20px #9CA3AF;">
-    ✦ Swervin ✦
-  </h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=9CA3AF&center=true&vCenter=true&width=200&lines=✦+Swervin+✦" alt="Swervin Animation" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f1f1f&height=100&section=footer" width="100%" />
 </div>
-
-
