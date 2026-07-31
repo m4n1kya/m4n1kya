@@ -10,7 +10,7 @@
 
 ## Manikya N.
 
-Passionate software engineer specializing in full-stack development with expertise in modern frontend technologies and scalable backend systems. Experienced in building MERN-based applications, AI-powered solutions, secure REST APIs, and responsive user interfaces. Passionate about delivering performant, scalable, and user-centric software.
+Full-stack architect and system design engineer specializing in building high-performance, cloud-native applications with modern frontend technologies and scalable backend infrastructure. Experienced in architecting MERN-based solutions, AI-integrated platforms, secure RESTful APIs, and responsive user interfaces. Committed to delivering production-grade software that is performant, resilient, and user-centric.
 
 <br>
 
