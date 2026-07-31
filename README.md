@@ -73,7 +73,6 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
-
 ## Connect
 
 <p align="center">
