@@ -71,13 +71,6 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=dark&hide_border=true&background=0a0a0a&stroke=9CA3AF&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4n1kya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=9CA3AF&text_color=9CA3AF&icon_color=9CA3AF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1kya&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=9CA3AF&text_color=9CA3AF" alt="Top Languages" />
-</div>
-
 ---
 
 ## Connect
