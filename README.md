@@ -16,7 +16,7 @@ Full-stack architect and system design engineer specializing in building high-pe
 
 <div align="center">
   <a href="https://ashen-portfolio-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_My_Portfolio-9CA3AF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/📁_My_Portfolio-9CA3AF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
   </a>
 </div>
 
