@@ -12,11 +12,15 @@
 
 Full-stack architect and system design engineer specializing in building high-performance, cloud-native applications with modern frontend technologies and scalable backend infrastructure. Experienced in architecting MERN-based solutions, AI-integrated platforms, secure RESTful APIs, and responsive user interfaces. Committed to delivering production-grade software that is performant, resilient, and user-centric.
 
+<br>
+
 <div align="center">
   <a href="https://ashen-portfolio-six.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-9CA3AF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
   </a>
 </div>
+
+<br>
 
 <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="130" style="opacity: 0.15;" />
 
