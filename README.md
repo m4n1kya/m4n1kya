@@ -8,7 +8,7 @@
 
 ---
 
-## Manikya N.
+## Manikya N
 
 Passionate about crafting high-performance full-stack applications and designing scalable system architectures. I bridge the gap between frontend aesthetics and backend robustness, delivering solutions that are both user-centric and technically sound.
 
