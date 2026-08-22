@@ -76,8 +76,8 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 ## Contribution Graph
 
 <div align="center">
-  <div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.05); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=react-dark&bg_color=transparent&color=9CA3AF&line=9CA3AF&point=9CA3AF&hide_border=true&area=true&area_color=9CA3AF&custom_title=GitHub%20Activity%20Graph" width="100%" alt="Contribution Graph" />
+  <div style="background: linear-gradient(145deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01)); backdrop-filter: blur(12px); border-radius: 24px; padding: 25px; border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 8px 32px rgba(0,0,0,0.4), inset 0 1px 0 rgba(255,255,255,0.05);">
+    <img src="https://ghchart.rshah.org/m4n1kya" alt="GitHub Contribution Chart" width="100%" style="border-radius: 12px;" />
   </div>
 </div>
 
