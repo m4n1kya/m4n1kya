@@ -76,8 +76,14 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 ## Contribution Graph
 
 <div align="center">
-  <div style="background: linear-gradient(145deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01)); backdrop-filter: blur(12px); border-radius: 24px; padding: 25px; border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 8px 32px rgba(0,0,0,0.4), inset 0 1px 0 rgba(255,255,255,0.05);">
-    <img src="https://ghchart.rshah.org/m4n1kya" alt="GitHub Contribution Chart" width="100%" style="border-radius: 12px;" />
+  <div style="position: relative; background: rgba(16, 16, 16, 0.5); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border-radius: 28px; padding: 30px 20px 20px 20px; border: 1px solid rgba(156, 163, 175, 0.08); box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.05);">
+    
+    <!-- Glass highlight effect -->
+    <div style="position: absolute; top: 0; left: 0; right: 0; height: 1px; background: linear-gradient(90deg, transparent, rgba(156, 163, 175, 0.2), transparent);"></div>
+    <div style="position: absolute; top: 0; left: 0; width: 1px; height: 100%; background: linear-gradient(180deg, rgba(156, 163, 175, 0.05), transparent);"></div>
+    <div style="position: absolute; bottom: 0; right: 0; width: 1px; height: 100%; background: linear-gradient(0deg, rgba(156, 163, 175, 0.05), transparent);"></div>
+    
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=react-dark&bg_color=0a0a0a&color=9CA3AF&line=9CA3AF&point=9CA3AF&hide_border=true&area=true&area_color=9CA3AF&custom_title=Activity%20Overview" width="100%" alt="Contribution Graph" />
   </div>
 </div>
 
