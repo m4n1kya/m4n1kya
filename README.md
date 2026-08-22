@@ -76,54 +76,8 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 ## Contribution Graph
 
 <div align="center">
-  <div style="background: rgba(10, 10, 10, 0.4); backdrop-filter: blur(24px); -webkit-backdrop-filter: blur(24px); border-radius: 30px; padding: 28px 20px 20px 20px; border: 1px solid rgba(156, 163, 175, 0.1); box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5); position: relative; overflow: hidden;">
-    
-   <style>
-      @keyframes graphMove {
-        0% { transform: translateX(0); }
-        100% { transform: translateX(-50%); }
-      }
-      
-      @keyframes pulse {
-        0%, 100% { opacity: 0.6; transform: scaleY(1); }
-        50% { opacity: 1; transform: scaleY(1.1); }
-      }
-      
-      @keyframes shine {
-        0% { transform: translateX(-100%); }
-        100% { transform: translateX(200%); }
-      }
-      
-      @keyframes floatGraph {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-5px); }
-      }
-      
-      .graph-container {
-        animation: floatGraph 6s ease-in-out infinite;
-      }
-      
-      .bar {
-        display: inline-block;
-        width: 8px;
-        margin: 0 2px;
-        border-radius: 4px 4px 0 0;
-        background: linear-gradient(180deg, #9CA3AF, #6B7280);
-        animation: pulse 2s ease-in-out infinite;
-        transition: height 0.3s ease;
-      }
-    </style>
-    
-  <div class="graph-container" style="position: relative; overflow: hidden;">
-      
-      <!-- Animated shine effect -->
-   <div style="position: absolute; top: 0; left: -100%; width: 200%; height: 100%; background: linear-gradient(90deg, transparent, rgba(156, 163, 175, 0.05), transparent); animation: shine 8s linear infinite; z-index: 2; pointer-events: none;"></div>
-      
-      <!-- Actual Contribution Graph -->
-   <div style="position: relative; z-index: 1; padding: 20px 0;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=react-dark&bg_color=0a0a0a&color=9CA3AF&line=9CA3AF&point=9CA3AF&hide_border=true&area=true&area_color=9CA3AF&custom_title=Contribution%20Flow" width="100%" alt="Contribution Graph" style="border-radius: 12px;" />
-      </div>
-    </div>
+  <div style="background: rgba(10,10,10,0.6); border-radius: 20px; padding: 20px; border: 1px solid rgba(156,163,175,0.1);">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=react-dark&bg_color=0a0a0a&color=9CA3AF&line=9CA3AF&point=9CA3AF&hide_border=true&area=true&area_color=9CA3AF" width="100%" alt="Contribution Graph" />
   </div>
 </div>
 
