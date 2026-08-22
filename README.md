@@ -76,9 +76,7 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 ## Contribution Graph
 
 <div align="center">
-  <div style="background: rgba(10,10,10,0.6); border-radius: 20px; padding: 20px; border: 1px solid rgba(156,163,175,0.1);">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=react-dark&bg_color=0a0a0a&color=9CA3AF&line=9CA3AF&point=9CA3AF&hide_border=true&area=true&area_color=9CA3AF" width="100%" alt="Contribution Graph" />
-  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=react-dark&bg_color=0a0a0a&color=9CA3AF&line=9CA3AF&point=9CA3AF&hide_border=true&area=true&area_color=9CA3AF" width="100%" alt="Contribution Graph" />
 </div>
 
 <br>
