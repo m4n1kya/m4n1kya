@@ -73,6 +73,16 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=react-dark&bg_color=0a0a0a&color=9CA3AF&line=9CA3AF&point=9CA3AF&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
