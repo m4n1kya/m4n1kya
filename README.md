@@ -73,17 +73,19 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
+---
+
 ## Contribution Graph
 
 <div align="center">
   <div style="background: rgba(10, 10, 10, 0.4); backdrop-filter: blur(24px); -webkit-backdrop-filter: blur(24px); border-radius: 30px; padding: 28px 20px 20px 20px; border: 1px solid rgba(156, 163, 175, 0.1); box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5), inset 0 0 80px rgba(156, 163, 175, 0.02), 0 0 60px rgba(156, 163, 175, 0.03); position: relative; overflow: hidden;">
     
-    <!-- Animated glass shine -->
+   <-- Animated glass shine -->
     <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at 30% 20%, rgba(255,255,255,0.03) 0%, transparent 60%); pointer-events: none;"></div>
-    
-    <!-- Top accent line -->
+       <!-- Top accent line -->
     <div style="position: absolute; top: 0; left: 10%; right: 10%; height: 1px; background: linear-gradient(90deg, transparent, rgba(156, 163, 175, 0.15), transparent);"></div>
-    
+     <!-- Bottom accent line -->
+    <div style="position: absolute; bottom: 0; left: 20%; right: 20%; height: 1px; background: linear-gradient(90deg, transparent, rgba(156, 163, 175, 0.05), transparent);"></div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=react-dark&bg_color=0a0a0a&color=9CA3AF&line=9CA3AF&point=9CA3AF&hide_border=true&area=true&area_color=9CA3AF&custom_title=Contribution%20Timeline" width="100%" alt="Contribution Graph" />
   </div>
 </div>
