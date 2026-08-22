@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Design+Enthusiast;Building+Scalable+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=700&lines=Full-Stack+Architect;System+Design+Engineer;Scalable+Solutions+Developer;Cloud-Native+Specialist" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -8,9 +8,17 @@
 
 ---
 
-## Manikya N
+## Manikya N.
 
-Passionate about crafting high-performance full-stack applications and designing scalable system architectures. I bridge the gap between frontend aesthetics and backend robustness, delivering solutions that are both user-centric and technically sound.
+Full-stack architect and system design engineer specializing in building high-performance, cloud-native applications with modern frontend technologies and scalable backend infrastructure. Experienced in architecting MERN-based solutions, AI-integrated platforms, secure RESTful APIs, and responsive user interfaces. Committed to delivering production-grade software that is performant, resilient, and user-centric.
+
+<br>
+
+<div align="center">
+  <a href="https://ashen-portfolio-six.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-9CA3AF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+  </a>
+</div>
 
 <br>
 
@@ -63,13 +71,24 @@ Low-latency backends and optimized frontends focused on high concurrency, effici
 ### Secure & Reliable APIs
 Well-structured RESTful APIs with authentication, authorization, input validation, and observability — built for real-world reliability.
 
+---
+
+## Contribution Graph
+
+<div align="center">
+  <div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.05); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=react-dark&bg_color=transparent&color=9CA3AF&line=9CA3AF&point=9CA3AF&hide_border=true&area=true&area_color=9CA3AF&custom_title=GitHub%20Activity%20Graph" width="100%" alt="Contribution Graph" />
+  </div>
+</div>
+
+<br>
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=dark&hide_border=true&background=0a0a0a&stroke=9CA3AF&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=dark&hide_border=true&background=0a0a0a&stroke=9CA3AF&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -101,15 +120,11 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
-<!-- Bottom Typing Animation -->
+<!-- Bottom Animation with "Swervin" -->
 <div align="center">
-  <h3 style="color: #9CA3AF; text-shadow: 0 0 10px #9CA3AF, 0 0 20px #9CA3AF;">
-    ✦ Swervin ✦
-  </h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=9CA3AF&center=true&vCenter=true&width=200&lines=✦+Swervin+✦" alt="Swervin Animation" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f1f1f&height=100&section=footer" width="100%" />
 </div>
-
-
