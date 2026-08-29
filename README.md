@@ -73,23 +73,24 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=react-dark&bg_color=0a0a0a&color=9CA3AF&line=9CA3AF&point=9CA3AF&hide_border=true&area=true&area_color=9CA3AF&radius=8" width="100%" alt="Contribution Graph" />
-</div>
-
-<br>
-
----
-
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m4n1kya&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=9CA3AF&text_color=9CA3AF&icon_color=9CA3AF&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4n1kya&theme=dark&background=0a0a0a&stroke=9CA3AF&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=react-dark&bg_color=0a0a0a&color=9CA3AF&line=9CA3AF&point=9CA3AF&hide_border=true&area=true&area_color=9CA3AF" width="100%" alt="Contribution Graph" />
+</div>
+
+> **Note:** If the graph still doesn't appear, try this alternative URL:  
+> `https://ghchart.rshah.org/m4n1kya` (a simple calendar heatmap)
 
 ---
 
@@ -120,7 +121,7 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
-<!-- Bottom Animation with "Swervin" -->
+<!-- Bottom Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=9CA3AF&center=true&vCenter=true&width=200&lines=✦+Swervin+✦" alt="Swervin Animation" />
 </div>
