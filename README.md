@@ -58,7 +58,7 @@ Full-stack architect and system design engineer specializing in building high-pe
 
 ### Developer Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,git,vscode,figma,npm,yarn,webpack,babel,eslint,prettier" />
+  <img src="https://skillicons.dev/icons?i=postman,git,vscode,webpack,eslint" />
 </p>
 
 ---
