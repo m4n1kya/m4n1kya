@@ -14,13 +14,6 @@ Full-stack architect and system design engineer specializing in building high-pe
 
 <br>
 
-<!-- 🎬 DARK CODING GIF BANNER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" />
-</div>
-
-<br>
-
 <div align="center">
   <a href="https://ashen-portfolio-six.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-9CA3AF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
@@ -67,13 +60,6 @@ Full-stack architect and system design engineer specializing in building high-pe
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postman,git" />
 </p>
-
----
-
-<!-- 🌌 DARK MATRIX SEPARATOR GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400" />
-</div>
 
 ---
 
@@ -128,15 +114,6 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 </div>
 
 <br>
-
-<!-- 🐍 SNAKE CONTRIBUTION ANIMATION (Dark) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
 
 ---
 
