@@ -96,7 +96,7 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 - Implemented JWT authentication and role-based access control across 3 user roles for secure permission-based access.
 - Built MongoDB aggregation pipelines for analytics dashboards and integrated an AI-powered assistant for campus queries.
 
-### Beacon – Intelligent Building Energy Optimization
+### Beacon – Building Energy Analytics & Control Optimization Network
 *May 2026 - Jul 2026*  
 **Python, EnergyPlus, Qwen2.5, Ollama, Streamlit, Pandas, Plotly**  
 - Built an automated energy optimization platform integrating EnergyPlus building simulations with Qwen2.5 through Ollama.
