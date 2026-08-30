@@ -79,24 +79,6 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
-## Experience
-
-**MPOnline Limited (Govt. of MP & TCS JV)** – Advanced Software Engineering & Development Intern  
-*May 2026 - Aug 2026, Bhopal, India*
-- Built REST APIs and backend components using Java, C++, Python, and SQL in an industry-oriented engineering program.
-- Applied SDLC and Agile methodologies across 6 sprints with comprehensive unit and integration testing for live projects.
-- Tested 20+ API endpoints using Postman, documented with Swagger, and managed code with Git for version control.
-- Collaborated with senior engineers on database design and systematic debugging to deliver reliable software features.
-
-**Ethnus** – MERN Stack Intern  
-*Jul 2024 - Oct 2024, Remote*
-- Developed 4 full-stack application modules using MongoDB, Express.js, React.js, and Node.js with modular component architecture.
-- Built 15+ RESTful APIs with JWT-based authentication and secure CRUD operations for core application features.
-- Created 10+ responsive React interfaces using Redux for state management and Tailwind CSS for consistent styling.
-- Optimized MongoDB queries with strategic indexing and aggregation pipelines, reducing API response latency by 40%.
-
----
-
 ## Projects
 
 ### AshenRitual – Full-Stack E-Commerce Platform
@@ -120,15 +102,6 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 - Built an automated energy optimization platform integrating EnergyPlus building simulations with Qwen2.5 through Ollama.
 - Engineered a modular Python pipeline to automate simulation execution, process energy data, and generate AI-driven recommendations, achieving a 3.57% reduction in simulated electricity consumption.
 - Created interactive Streamlit dashboards with Plotly visualizations for real‑time building energy performance monitoring.
-
----
-
-## Achievements & Certifications
-
-- **NPTEL Gold Elite** (Top 5%) in Marketing Analytics and completed Machine Learning certification from NPTEL (May 2025).
-- Completed a 100‑day Java coding challenge focused on Data Structures & Algorithms with 200+ problems solved.
-- Earned **MERN Stack** certification from Ethnus and **Blockchain Specialization** from University at Buffalo (Oct 2025).
-- Served as **Disciplinary In‑Charge** at Winter Fest 2025, coordinating 15+ team members for a 2000+ attendee university event.
 
 ---
 
