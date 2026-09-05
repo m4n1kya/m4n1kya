@@ -8,11 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:                # <-- add this block
+      contents: write           # grants push permission
     steps:
       - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
-          github_user_name: m4n1kya  # Change this to your username
+          github_user_name: m4n1kya
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3.1.0
