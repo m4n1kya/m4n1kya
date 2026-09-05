@@ -105,18 +105,6 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
-<br>
-
-## 📈 Activity & Analytics
-
-<div align="center">
-  <div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.05); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4n1kya&theme=github-dark&bg_color=0a0a0a&color=9CA3AF&line=9CA3AF&point=9CA3AF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </div>
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
