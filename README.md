@@ -34,35 +34,6 @@ Full-stack architect and system design engineer specializing in building high-pe
 
 ---
 
-<div align="center">
-  <div style="background: #0a0a0a; border-radius: 20px; padding: 14px 20px; border: 1px solid rgba(255,255,255,0.05); display: inline-block;">
-    
-  <svg xmlns="http://www.w3.org/2000/svg" width="340" height="40" viewBox="0 0 340 40">
-      <defs>
-        <style>
-          .term-text {
-            font: 18px 'Courier New', monospace;
-            fill: #9CA3AF;
-          }
-          .cursor-blink {
-            fill: #9CA3AF;
-            animation: blink 1s step-end infinite;
-          }
-          @keyframes blink {
-            0%, 100% { opacity: 1; }
-            50%      { opacity: 0; }
-          }
-        </style>
-      </defs>
-      <text x="15" y="28" class="term-text">$ git push --force --dark-mode</text>
-      <rect x="310" y="14" width="10" height="16" class="cursor-blink" rx="2" />
-                              </svg>
-
-  </div>
-</div>
-
----
-
 ## Technical Skills
 
 ### Languages & Frameworks
