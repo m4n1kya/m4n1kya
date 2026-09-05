@@ -105,6 +105,14 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
 ## Contribution Graph
 
 <div align="center">
@@ -114,15 +122,6 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 </div>
 
 <br>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4n1kya&show_icons=true&hide_border=true&theme=dark&bg_color=0a0a0a&text_color=9CA3AF&title_color=9CA3AF&icon_color=9CA3AF" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1kya&layout=compact&hide_border=true&theme=dark&bg_color=0a0a0a&text_color=9CA3AF&title_color=9CA3AF" alt="Top Languages" width="49%" />
-</div>
 
 ---
 
