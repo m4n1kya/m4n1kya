@@ -34,6 +34,7 @@ Full-stack architect and system design engineer specializing in building high-pe
 
 ---
 
+
 ## Technical Skills
 
 ### Languages & Frameworks
