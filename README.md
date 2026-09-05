@@ -34,7 +34,13 @@ Full-stack architect and system design engineer specializing in building high-pe
 
 ---
 
-<img src="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/dark-grey-snake.svg" width="100%" alt="Snake Animation" />
+## 🌍 Global Activity
+
+<div align="center">
+  <div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.05); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
+    <img src="https://metrics.lecoq.io/m4n1kya?template=classic&base.indepth=true&base.hireable=true&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=6&languages.threshold=0%25&introduction=1&introduction.title=true&stars=1&followup=1&followup.sections=repositories&repositories=1&repositories.featured=AshenRitual&people=1&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&globe=1" width="100%" alt="Metrics with Globe" />
+  </div>
+</div>
 
 ---
 
