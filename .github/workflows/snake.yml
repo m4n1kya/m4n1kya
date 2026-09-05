@@ -8,16 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:                # <-- add this block
-      contents: write           # grants push permission
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
           github_user_name: m4n1kya
+          # Dark board + grey gradient snake
+          palette: '["#1A1A1A", "#2A2A2A", "#3A3A3A", "#4A4A4A", "#5A5A5A"]'
+          snake_color: '["#666666", "#888888", "#AAAAAA", "#CCCCCC", "#EEEEEE"]'
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/dark-grey-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
