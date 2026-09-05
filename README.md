@@ -35,37 +35,28 @@ Full-stack architect and system design engineer specializing in building high-pe
 ---
 
 <div align="center">
-  <div style="background: #0a0a0a; border-radius: 20px; padding: 30px; border: 1px solid rgba(255, 255, 255, 0.05); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.8);">
+  <div style="background: #0a0a0a; border-radius: 20px; padding: 14px 20px; border: 1px solid rgba(255,255,255,0.05); display: inline-block;">
     
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="150" viewBox="0 0 300 150">
+  <svg xmlns="http://www.w3.org/2000/svg" width="340" height="40" viewBox="0 0 340 40">
       <defs>
         <style>
-          .pulse-ring {
-            fill: none;
-            stroke: #9CA3AF;
-            stroke-width: 2;
-            animation: pulse-ring 2s ease-in-out infinite;
-          }
-          .pulse-ring:nth-child(2) { animation-delay: 0.5s; }
-          .pulse-text {
-            font: bold 22px 'Courier New', monospace;
+          .term-text {
+            font: 18px 'Courier New', monospace;
             fill: #9CA3AF;
-            animation: pulse-text 2s ease-in-out infinite;
           }
-          @keyframes pulse-ring {
-            0%   { opacity: 0.5; r: 30; stroke-width: 2; }
-            100% { opacity: 0;   r: 70; stroke-width: 0; }
+          .cursor-blink {
+            fill: #9CA3AF;
+            animation: blink 1s step-end infinite;
           }
-          @keyframes pulse-text {
-            0%, 100% { opacity: 0.4; }
-            50%      { opacity: 1; }
+          @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50%      { opacity: 0; }
           }
         </style>
       </defs>
-      <circle cx="150" cy="75" r="30" class="pulse-ring" />
-      <circle cx="150" cy="75" r="30" class="pulse-ring" />
-      <text x="150" y="82" class="pulse-text" text-anchor="middle">● HACK THE PLANET</text>
-    </svg>
+      <text x="15" y="28" class="term-text">$ git push --force --dark-mode</text>
+      <rect x="310" y="14" width="10" height="16" class="cursor-blink" rx="2" />
+                              </svg>
 
   </div>
 </div>
