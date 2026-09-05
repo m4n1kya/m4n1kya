@@ -8,6 +8,20 @@
 
 ---
 
+## Contribution Graph
+
+<div align="center">
+  <div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.05); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-snake.svg" />
+      <img src="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-snake.svg" width="100%" alt="Snake Animation" />
+    </picture>
+  </div>
+</div>
+
+---
+
 ## Manikya N.
 
 Full-stack architect and system design engineer specializing in building high-performance, cloud-native applications with modern frontend technologies and scalable backend infrastructure. Experienced in architecting MERN-based solutions, AI-integrated platforms, secure RESTful APIs, and responsive user interfaces. Committed to delivering production-grade software that is performant, resilient, and user-centric.
