@@ -12,11 +12,7 @@
 
 <div align="center">
   <div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.05); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-snake.svg" />
-      <img src="https://raw.githubusercontent.com/m4n1kya/m4n1kya/output/github-snake.svg" width="100%" alt="Snake Animation" />
-    </picture>
+    <img src="https://github-contributions.vercel.app/m4n1kya.svg" width="100%" alt="Contribution Chart" />
   </div>
 </div>
 
