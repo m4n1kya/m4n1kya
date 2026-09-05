@@ -109,11 +109,9 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 <div align="center">
   <div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.05); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4n1kya&theme=github_dark" width="100%" alt="Contribution Graph" />
+    <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=m4n1kya&theme=dark&stats=true" width="100%" alt="3D Isometric Contributions" />
   </div>
 </div>
-
-<br>
 
 ---
 
