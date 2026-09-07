@@ -80,32 +80,6 @@ Well-structured RESTful APIs with authentication, authorization, input validatio
 
 ---
 
-## Projects
-
-### AshenRitual – Full-Stack E-Commerce Platform
-*Live Demo* | *Feb 2026 - Present*  
-**Next.js, TypeScript, NestJS, PostgreSQL, Prisma, REST APIs, JWT, Gemini API**  
-- Architected a scalable full-stack e-commerce platform with 50+ REST API endpoints across 25+ Prisma models.
-- Secured 20+ routes with JWT authentication, HTTP‑only refresh tokens, RBAC, bcrypt, Helmet, and rate limiting.
-- Built **VESPER**, an AI-powered wardrobe intelligence system using Google Gemini API for personalized outfit recommendations.
-- Implemented responsive UI using Tailwind CSS, Framer Motion, and React Server Components for performance and SEO.
-
-### Uni‑Verse – Campus Resource Management Platform
-*Mar 2025 - Jul 2025*  
-**React, Node.js, Express.js, MongoDB, REST APIs, JWT, RBAC, Tailwind CSS**  
-- Led end-to-end development of a MERN-based campus platform with 20+ RESTful APIs for resource booking and user management.
-- Implemented JWT authentication and role-based access control across 3 user roles for secure permission-based access.
-- Built MongoDB aggregation pipelines for analytics dashboards and integrated an AI-powered assistant for campus queries.
-
-### Beacon – Building Energy Analytics & Control Optimization Network
-*May 2026 - Jul 2026*  
-**Python, EnergyPlus, Qwen2.5, Ollama, Streamlit, Pandas, Plotly**  
-- Built an automated energy optimization platform integrating EnergyPlus building simulations with Qwen2.5 through Ollama.
-- Engineered a modular Python pipeline to automate simulation execution, process energy data, and generate AI-driven recommendations, achieving a 3.57% reduction in simulated electricity consumption.
-- Created interactive Streamlit dashboards with Plotly visualizations for real‑time building energy performance monitoring.
-
----
-
 ## Contribution Graph
 
 <div align="center">
