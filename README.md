@@ -8,7 +8,7 @@
 
 ---
 
-## Manikya N
+## Manikya N.
 
 Full-stack architect and system design engineer specializing in building high-performance, cloud-native applications with modern frontend technologies and scalable backend infrastructure. Experienced in architecting MERN-based solutions, AI-integrated platforms, secure RESTful APIs, and responsive user interfaces. Committed to delivering production-grade software that is performant, resilient, and user-centric.
 
