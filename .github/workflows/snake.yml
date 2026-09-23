@@ -18,7 +18,7 @@ jobs:
           github_user_name: m4n1kya
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark-dimmed
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
