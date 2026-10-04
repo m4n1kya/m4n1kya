@@ -26,7 +26,7 @@ Full-stack architect and system design engineer specializing in building high-pe
 
 **Core Focus Areas:**
 - **Frontend Engineering** – React, Next.js, TypeScript, Tailwind CSS
-- **Backend Development** – Node.js, Express, Spring Boot, Microservices
+- **Backend Development** – Node.js, Express, Microservices
 - **System Design** – Scalable APIs, Distributed Systems, Cloud Architecture
 - **AI Integration** – LLMs, Gemini API, Ollama, Qwen2.5
 
